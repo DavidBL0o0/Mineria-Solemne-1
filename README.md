@@ -61,6 +61,11 @@ Lo que se puede concluir es que las personas de raza blanca tenían más tendenc
 
 
 
+![Texto alternativo](Graficas\Grafica_Estado_[Delaware].png)
+
+![Texto alternativo](Graficas\Grafica_Estado_[Minnesota].png)
+
+![Texto alternativo](Graficas\Grafica_Estado_[Michigan].png)
 
 
 
