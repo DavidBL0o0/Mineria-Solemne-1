@@ -10,7 +10,7 @@ EL conjunto de datos disponibles son principalmente 91 fechas distribuidas en in
 
 Para comprender el análisis, la primera gráfica muestra una relación del 100% de los Casos confirmados (personas Blancas y Negras) en cada fecha y la segunda hace lo mismo pero en el caso de las Muertes.
 
-![Texto alternativo](Grafica_Estado_[District_of_Columbia].png)
+![Texto alternativo](Graficas\Grafica_Estado_[District_of_Columbia].png)
 
 La línea roja representa la relación en las Muertes y el número en la leyenda es el cálculo del error porcentual absoluto que compara la relación de Casos y Muertes, para ver cómo de diferente es y por último, el signo positivo o negativo señaliza si (+) murieron más personas blancas o (-) si murieron más personas negras.
 
@@ -52,7 +52,7 @@ En todos los demás estados o territorios los cambios están por debajo de 10%, 
 
 Como se ve en los estados, principalmente las personas de raza blanca mueren más. Entre los estados con más población adulta solo está Maine y Florida, lo cual no representa un motivo significativo de este cambio.
 
-![Texto alternativo](Porcentaje_USA.png)
+![Texto alternativo](Graficas\Porcentaje_USA.png)
 
 Además de los estados posibles estados más racistas solo hay tres: Mississippi, Texas y Virginia.
 
