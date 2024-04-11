@@ -54,9 +54,9 @@ Como se ve en los estados, principalmente las personas de raza blanca mueren má
 
 ![Texto alternativo](Graficas\Porcentaje_USA.png)
 
-Además de los estados posibles estados más racistas solo hay tres: Mississippi, Texas y Virginia.
+Además de los estados posibles estados más racistas solo hay tres: Mississippi, Texas y Virginia. Por lo que no hay una relacion estrecha.
 
-Lo que se puede concluir es que las personas de raza blanca tenían más tendencia a morir que las de raza negra, por lo que en el presente análisis no existió una discriminación racial hacia la gente negra, pero al parecer existe una componente de vulnerabilidad para la gente blanca.
+Lo que se puede concluir es que las personas de raza blanca tenían más tendencia a morir que las de peronas de raza negra. Lo que significa que no existio una discriminación racial hacia las personas negras, pero al parecer existe una componente de vulnerabilidad para las personas blancas.
 
 
 
