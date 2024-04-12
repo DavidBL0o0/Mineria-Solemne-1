@@ -1,8 +1,0 @@
-Librerias utilizadas con pyton 3.12.2
-
-numpy
-pandas
-matplotlib.pyplot
-datetime
-google.cloud
-sklearn.metrics
