@@ -18,7 +18,7 @@ En este análisis se investigó el impacto racial que tuvo lugar durante la pand
 
 Para comprender el análisis, los graficos represnetan una relación del 100% (es decir tomar la cantidad de personas blancas y personas negras como el total) para tener una referencia base para comarar, en este caso los Casos confirmados y en segundo lugar la Mortalidad.
 
-![Texo](Graficas\Grafica_Estado_[District_of_Columbia].png)
+![Texo](Graficas/Grafica_Estado_[District_of_Columbia].png)
 <p align="center">Personas de Blancas [Azul] y Negras [Naranjo] .</p>
 
 
@@ -62,7 +62,7 @@ En todos los demás estados o territorios los cambios están por debajo de 10% y
 
 Como se ve en los estados, principalmente las personas de raza blanca mueren más. Entre los estados con más población adulta solo está Maine y Florida, lo cual no representa un motivo significativo de este cambio.
 
-![Texto alternativo](Graficas\Porcentaje_USA.png)
+![Texto alternativo](Graficas/Porcentaje_USA.png)
 <p align="center"> Los casos (-) son solo 18% de los destacados y es solo el 5% entre todos los estados.</p>
 
 
@@ -70,11 +70,11 @@ Además de los estados posibles estados más racistas solo hay tres: Mississippi
 
 Lo que se puede concluir es que las personas de raza blanca tenían más tendencia a morir que las de peronas de raza negra. Lo que significa que no existio una discriminación racial hacia las personas negras, pero al parecer existe una componente de vulnerabilidad para las personas blancas.
 
-![Texto alternativo](Graficas\Grafica_Estado_[Delaware].png)
+![Texto alternativo](Graficas/Grafica_Estado_[Delaware].png)
 
-![Texto alternativo](Graficas\Grafica_Estado_[Minnesota].png)
+![Texto alternativo](Graficas/Grafica_Estado_[Minnesota].png)
 
-![Texto alternativo](Graficas\Grafica_Estado_[Michigan].png)
+![Texto alternativo](Graficas/Grafica_Estado_[Michigan].png)
 
 
 
